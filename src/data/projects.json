@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "HenVeronime",
+    "image": "./assets/images/heveronime.png",
+    "description": "An anime streaming platform that provides the latest shows in the best quality. Enjoy a variety of anime genres, regular updates, and easy access for a comfortable and enjoyable viewing experience.",
+    "description_id": "Platform streaming anime yang menyediakan tayangan terbaru dengan kualitas terbaik. Nikmati berbagai genre anime, pembaruan rutin, dan akses mudah untuk pengalaman menonton yang nyaman dan menyenangkan.",
+    "skills": ["HTML", "JavaScript", "TypeScript"],
+    "url": "https://hen-veronime.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "HenKomiko",
+    "image": "./assets/images/henkomiko.png",
+    "description": "A comic reading platform that provides the latest chapters in the best quality. Enjoy a wide variety of genres, regular updates, and an intuitive reading experience for comfortable and enjoyable reading.",
+    "description_id": "Platform membaca komik yang menyediakan chapter terbaru dengan kualitas terbaik. Nikmati berbagai genre komik, pembaruan berkala, serta pengalaman membaca yang intuitif, nyaman, dan menyenangkan.",
+    "skills": ["TypeScript"],
+    "url": "https://hen-komiko.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "RobloxStalk",
+    "image": "./assets/images/roblox.png",
+    "description": "A Roblox account lookup tool that provides detailed profile information instantly. View user profiles, avatars, account stats, and more with a fast and clean experience.",
+    "description_id": "Alat pencarian akun Roblox yang menyediakan informasi profil mendalam secara instan. Lihat profil pengguna, avatar, statistik akun, dan lainnya dengan pengalaman yang cepat dan bersih.",
+    "skills": ["HTML", "TypeScript"],
+    "url": "https://roblox-stalk-three.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "Hex-AM",
+    "image": "./assets/images/hexam.png",
+    "description": "A web-based platform that provides free 1-year Alight Motion Premium activation for eligible accounts. Enjoy premium features, watermark-free exports, and access to exclusive effects with a simple and convenient activation process.",
+    "description_id": "Platform berbasis web yang menyediakan aktivasi Alight Motion Premium 1 tahun gratis bagi akun yang memenuhi syarat. Nikmati fitur premium, ekspor tanpa watermark, dan akses ke efek eksklusif dengan proses aktivasi yang mudah dan praktis.",
+    "skills": ["HTML", "TypeScript"],
+    "url": "https://hex-amprem.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "Hexmail",
+    "image": "./assets/images/hexmail.png",
+    "description": "A temporary email service that allows users to receive emails without using their personal address. Enjoy a simple interface, quick email access, and a convenient way to manage temporary email needs.",
+    "description_id": "Layanan email sementara yang memungkinkan pengguna menerima email tanpa menggunakan alamat pribadi. Nikmati antarmuka sederhana, akses email cepat, dan cara praktis untuk mengelola kebutuhan email sementara.",
+    "skills": ["HTML", "TypeScript"],
+    "url": "https://hex-mail-five.vercel.app/"
+  },
+  {
+    "id": 6,
+    "name": "Hex-Uploader",
+    "image": "./assets/images/hexupload.png",
+    "description": "An image uploading platform that makes sharing images quick and easy. Upload your images, generate shareable URLs, and access your image links through a simple and intuitive interface.",
+    "description_id": "Platform unggah gambar yang membuat proses berbagi gambar menjadi cepat dan mudah. Unggah gambar Anda, buat tautan URL yang dapat dibagikan, dan akses tautan gambar melalui antarmuka yang sederhana dan intuitif.",
+    "skills": ["HTML", "TypeScript"],
+    "url": "https://hen-veronime.vercel.app/"
+  }
+]
