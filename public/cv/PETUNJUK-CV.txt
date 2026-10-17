@@ -1,0 +1,19 @@
+# PETUNJUK MEMASUKKAN FILE CV
+=====================================
+
+Folder ini (/public/cv/) disiapkan khusus untuk file CV / Resume Anda.
+
+CARA MEMASUKKAN FILE CV:
+1. Simpan file CV Anda (format PDF sangat disarankan) ke dalam folder ini:
+   Lokasi: public/cv/
+
+2. Beri nama file salah satu dari nama berikut (rekomendasi: cv.pdf):
+   - cv.pdf   (Sangat direkomendasikan)
+   - resume.pdf
+   - Hendra-CV.pdf
+
+3. Setelah Anda memasukkan file `cv.pdf` ke folder `public/cv/`, tombol "Unduh CV" di halaman web akan secara otomatis mengunduh file CV asli Anda tersebut ketika diklik oleh pengunjung.
+
+Catatan:
+- File di dalam folder `/public/cv/` akan otomatis disertakan saat Anda deploy ke Vercel atau hosting lainnya.
+- File dapat diakses langsung melalui URL: https://domain-anda.com/cv/cv.pdf
